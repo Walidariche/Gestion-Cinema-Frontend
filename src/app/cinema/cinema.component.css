@@ -1,0 +1,12 @@
+.clickable{
+
+    cursor: pointer;
+}
+.price {
+    font-size: 12px; 
+}
+.ticket{
+    margin: 5px;
+    width: 40px;
+    
+}
