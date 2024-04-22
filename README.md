@@ -2,9 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.12.
 
-## Development server
+## Descroption
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+"Cinema View" is a dynamic frontend application designed to enhance the cinema management experience. With a sleek and intuitive user interface, "CineView" allows users to effortlessly navigate through cinema schedules, view movie details, and reserve seats. The frontend seamlessly integrates with the backend to provide real-time updates on movie screenings, seat availability, and payment processing, ensuring a smooth and enjoyable booking experience for cinema enthusiasts
 
 ## Code scaffolding
 
