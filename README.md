@@ -2,7 +2,7 @@
 
 "Cinema View" is a dynamic frontend application designed to enhance the cinema management experience. With a sleek and intuitive user interface, "CineView" allows users to effortlessly navigate through cinema schedules, view movie details, and reserve seats. The frontend seamlessly integrates with the backend to provide real-time updates on movie screenings, seat availability, and payment processing, ensuring a smooth and enjoyable booking experience for cinema enthusiasts
 
-# Technologie
+## Technologie
 
 To create the front-end of my Angular application, I'm using Angular CLI version 16.2.12. Angular CLI (Command Line Interface) is a powerful tool that makes it easy to create, build, and manage Angular applications. With Angular CLI, I can quickly generate components, services, modules, and more, saving me time and effort.
 
