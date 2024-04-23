@@ -1,6 +1,6 @@
 ## Description
 
-"Cinema View" is a dynamic frontend application designed to enhance the cinema management experience. With a sleek and intuitive user interface, "CineView" allows users to effortlessly navigate through cinema schedules, view movie details, and reserve seats. The frontend seamlessly integrates with the backend to provide real-time updates on movie screenings, seat availability, and payment processing, ensuring a smooth and enjoyable booking experience for cinema enthusiasts
+"Cinema View" is a dynamic frontend application designed to enhance the cinema management experience. With a sleek and intuitive user interface, "CinemaView" allows users to effortlessly navigate through cinema schedules, view movie details, and reserve seats. The frontend seamlessly integrates with the backend to provide real-time updates on movie screenings, seat availability, and payment processing, ensuring a smooth and enjoyable booking experience for cinema enthusiasts
 
 ## Technologie
 
